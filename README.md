@@ -66,7 +66,6 @@ http://localhost:3000
 * App.js
 * App.css
 * index.js
-* index.html
 * package.json
 
 ---
