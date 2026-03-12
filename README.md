@@ -58,7 +58,8 @@ Then open:
 http://localhost:3000
 
 ---
-<img width="196" height="95" alt="image" src="https://github.com/user-attachments/assets/36ccf49c-eca0-402a-b820-ca716f75afdd" />
+<img width="155" height="179" alt="image" src="https://github.com/user-attachments/assets/821206b5-c82d-4ce8-8688-b200620cde13" />
+
 
 ## Files used
 
